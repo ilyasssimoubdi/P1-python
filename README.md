@@ -13,7 +13,7 @@ Were there gender disparities in survival chances?
 
 What insights can we extract from embarkation locations?
 
-🛠️ Technologies Used
+Technologies Used
 
 Python (Pandas, NumPy) for data manipulation
 
